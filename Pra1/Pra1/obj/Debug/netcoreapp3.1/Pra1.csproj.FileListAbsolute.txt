@@ -11,3 +11,17 @@ D:\C#_pra\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.csproj.CoreCompileInputs.cache
 D:\C#_pra\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.dll
 D:\C#_pra\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.pdb
 D:\C#_pra\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.genruntimeconfig.cache
+D:\sharp\Pra1\Pra1\bin\Debug\netcoreapp3.1\Pra1.exe
+D:\sharp\Pra1\Pra1\bin\Debug\netcoreapp3.1\Pra1.deps.json
+D:\sharp\Pra1\Pra1\bin\Debug\netcoreapp3.1\Pra1.runtimeconfig.json
+D:\sharp\Pra1\Pra1\bin\Debug\netcoreapp3.1\Pra1.runtimeconfig.dev.json
+D:\sharp\Pra1\Pra1\bin\Debug\netcoreapp3.1\Pra1.dll
+D:\sharp\Pra1\Pra1\bin\Debug\netcoreapp3.1\Pra1.pdb
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.csproj.AssemblyReference.cache
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.GeneratedMSBuildEditorConfig.editorconfig
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.AssemblyInfoInputs.cache
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.AssemblyInfo.cs
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.csproj.CoreCompileInputs.cache
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.dll
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.pdb
+D:\sharp\Pra1\Pra1\obj\Debug\netcoreapp3.1\Pra1.genruntimeconfig.cache
