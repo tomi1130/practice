@@ -6,15 +6,12 @@ namespace Pra1
     {
         static void Main(string[] args)
         {
-            Person p1 = new Person(); 
-            Person p2 = new Person();
-            p1.name = "田中";
-            p1.age = 20;
-            p1.ShowAgeAndName();
+            Calc keisan = new Calc();
+            int a = 1, b = 2, c = 3;
+            int ans1 = keisan.Add(a, b);
+            int ans2 = keisan.Add(a, b, c);
 
-            p2 = new Person();
-            p2.SetAgeName("a", 541);
-            p2.ShowAgeAndName();
+            Console.WriteLine("{0},{1}", ans1, ans2);
         }
     }
 }
